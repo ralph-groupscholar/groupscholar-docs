@@ -1,0 +1,9 @@
+# Docs Directory
+
+Use this folder for documentation content. Keep files short, scannable, and organized by topic.
+
+## Conventions
+
+- Use kebab-case for file names (example: `engineering-handbook.md`).
+- Start with a short summary section.
+- Prefer bullet lists over dense paragraphs.

@@ -1,0 +1,130 @@
+:root {
+  --ink: #1a1b1f;
+  --muted: #5b616e;
+  --cream: #f4f0e8;
+  --sand: #e5ded2;
+  --clay: #c36241;
+  --night: #2a2d34;
+  --shadow: rgba(19, 25, 36, 0.12);
+  font-family: "Fraunces", "Iowan Old Style", "Palatino", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: radial-gradient(circle at top, #fff8f0 0%, var(--cream) 55%, var(--sand) 100%);
+  line-height: 1.6;
+}
+
+.hero {
+  padding: 6rem 8vw 4rem;
+  background: linear-gradient(120deg, rgba(26, 27, 31, 0.08), rgba(195, 98, 65, 0.18));
+}
+
+.hero-inner {
+  max-width: 720px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.8rem;
+  margin: 0 0 1rem;
+  color: var(--night);
+}
+
+h1 {
+  font-size: clamp(2.6rem, 4vw, 3.8rem);
+  margin: 0 0 1rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: var(--muted);
+  margin: 0 0 2rem;
+}
+
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.cta {
+  border: 1px solid var(--night);
+  padding: 0.8rem 1.6rem;
+  text-decoration: none;
+  color: var(--night);
+  font-weight: 600;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #fffaf4;
+}
+
+.cta.primary {
+  background: var(--night);
+  color: #fffaf4;
+}
+
+.cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px var(--shadow);
+}
+
+main {
+  padding: 2rem 8vw 4rem;
+}
+
+.section-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-bottom: 3rem;
+}
+
+.section-grid article {
+  padding: 1.5rem;
+  background: #fffaf4;
+  border-radius: 18px;
+  box-shadow: 0 10px 20px var(--shadow);
+}
+
+.section-grid h2 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.section-grid p {
+  color: var(--muted);
+}
+
+.callout {
+  padding: 2rem;
+  background: var(--night);
+  color: #fffaf4;
+  border-radius: 24px;
+}
+
+.callout h2 {
+  margin-top: 0;
+}
+
+footer {
+  padding: 2rem 8vw 3rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  .hero {
+    padding: 4rem 6vw 3rem;
+  }
+
+  .cta-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
