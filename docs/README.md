@@ -14,3 +14,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `operations-playbook.md`
 - `product-brief.md`
 - `engineering-handbook.md`
+- `onboarding-guide.md`

@@ -7,3 +7,7 @@
 ## Iteration 2
 - Added core documentation pages for company, operations, product, and engineering.
 - Linked the new docs from the landing page and refined the card styling.
+
+## Iteration 3
+- Added a new onboarding guide covering the first two weeks and access checklist.
+- Linked the onboarding guide from the docs index and updated the docs directory list.
