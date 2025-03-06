@@ -101,6 +101,25 @@ main {
   color: var(--muted);
 }
 
+.card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 600;
+  color: var(--night);
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+.card-link::after {
+  content: "→";
+  transition: transform 0.2s ease;
+}
+
+.card-link:hover::after {
+  transform: translateX(4px);
+}
+
 .callout {
   padding: 2rem;
   background: var(--night);
