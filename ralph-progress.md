@@ -11,3 +11,7 @@
 ## Iteration 3
 - Added a new onboarding guide covering the first two weeks and access checklist.
 - Linked the onboarding guide from the docs index and updated the docs directory list.
+
+## Iteration 4
+- Added a security and privacy guide covering data handling, access, and incidents.
+- Linked the new doc from the landing page and docs index.
