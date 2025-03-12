@@ -16,3 +16,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `engineering-handbook.md`
 - `onboarding-guide.md`
 - `security-privacy.md`
+- `communications-guide.md`

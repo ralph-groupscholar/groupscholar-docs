@@ -15,3 +15,7 @@
 ## Iteration 4
 - Added a security and privacy guide covering data handling, access, and incidents.
 - Linked the new doc from the landing page and docs index.
+
+## Iteration 5
+- Added a communications guide with channels, response expectations, and escalation norms.
+- Linked the communications guide from the landing page and docs index.
