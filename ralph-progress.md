@@ -19,3 +19,7 @@
 ## Iteration 5
 - Added a communications guide with channels, response expectations, and escalation norms.
 - Linked the communications guide from the landing page and docs index.
+
+## Iteration 6
+- Added a culture and values guide outlining principles, rituals, and decision norms.
+- Linked the culture guide from the docs index and landing page callouts.
