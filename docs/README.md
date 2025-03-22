@@ -18,3 +18,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `security-privacy.md`
 - `communications-guide.md`
 - `culture-values.md`
+- `meeting-rhythm.md`

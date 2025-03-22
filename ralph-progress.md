@@ -23,3 +23,7 @@
 ## Iteration 6
 - Added a culture and values guide outlining principles, rituals, and decision norms.
 - Linked the culture guide from the docs index and landing page callouts.
+
+## Iteration 7
+- Added a meeting rhythm guide covering cadence, roles, and agendas.
+- Linked the meeting rhythm guide from the docs index and core docs list.
