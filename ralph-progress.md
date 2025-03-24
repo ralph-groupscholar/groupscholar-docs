@@ -27,3 +27,7 @@
 ## Iteration 7
 - Added a meeting rhythm guide covering cadence, roles, and agendas.
 - Linked the meeting rhythm guide from the docs index and core docs list.
+
+## Iteration 8
+- Added an impact and metrics guide covering outcomes, operational health, and reporting cadence.
+- Linked the new guide from the landing page and docs index.

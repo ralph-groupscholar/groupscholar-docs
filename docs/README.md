@@ -19,3 +19,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `communications-guide.md`
 - `culture-values.md`
 - `meeting-rhythm.md`
+- `impact-metrics.md`
