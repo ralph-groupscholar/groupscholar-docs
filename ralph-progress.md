@@ -31,3 +31,7 @@
 ## Iteration 8
 - Added an impact and metrics guide covering outcomes, operational health, and reporting cadence.
 - Linked the new guide from the landing page and docs index.
+
+## Iteration 9
+- Added a talent and hiring guide covering role planning, interview loops, and offer standards.
+- Linked the new guide from the docs index and the site landing page.
