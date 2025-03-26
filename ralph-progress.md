@@ -35,3 +35,7 @@
 ## Iteration 9
 - Added a talent and hiring guide covering role planning, interview loops, and offer standards.
 - Linked the new guide from the docs index and the site landing page.
+
+## Iteration 10
+- Added a customer success and support guide covering tiers, response expectations, and renewal metrics.
+- Linked the new guide from the docs index and landing page.

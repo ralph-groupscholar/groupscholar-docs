@@ -21,3 +21,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `meeting-rhythm.md`
 - `impact-metrics.md`
 - `talent-hiring.md`
+- `customer-success.md`
