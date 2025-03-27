@@ -22,3 +22,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `impact-metrics.md`
 - `talent-hiring.md`
 - `customer-success.md`
+- `finance-procurement.md`

@@ -39,3 +39,7 @@
 ## Iteration 10
 - Added a customer success and support guide covering tiers, response expectations, and renewal metrics.
 - Linked the new guide from the docs index and landing page.
+
+## Iteration 11
+- Added a finance and procurement guide covering budgets, approvals, and vendor management.
+- Linked the new guide from the docs index and landing page.
