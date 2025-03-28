@@ -47,3 +47,7 @@
 ## Iteration 12
 - Added a marketing and brand guide covering positioning, voice, and approvals.
 - Linked the new guide from the docs index and landing page.
+
+## Iteration 13
+- Deployed the Group Scholar docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
