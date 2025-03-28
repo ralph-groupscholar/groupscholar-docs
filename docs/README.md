@@ -23,3 +23,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `talent-hiring.md`
 - `customer-success.md`
 - `finance-procurement.md`
+- `marketing-brand.md`

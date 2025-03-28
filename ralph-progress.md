@@ -43,3 +43,7 @@
 ## Iteration 11
 - Added a finance and procurement guide covering budgets, approvals, and vendor management.
 - Linked the new guide from the docs index and landing page.
+
+## Iteration 12
+- Added a marketing and brand guide covering positioning, voice, and approvals.
+- Linked the new guide from the docs index and landing page.
