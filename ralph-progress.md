@@ -55,3 +55,9 @@
 ## Iteration 14
 - Redeployed the Group Scholar docs site to Vercel to refresh production.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 15
+- Added a partnerships and alliances guide covering intake, governance, and renewal standards.
+- Linked the new guide from the docs index and landing page.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app

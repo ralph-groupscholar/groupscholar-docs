@@ -24,3 +24,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `customer-success.md`
 - `finance-procurement.md`
 - `marketing-brand.md`
+- `partnerships-alliances.md`
