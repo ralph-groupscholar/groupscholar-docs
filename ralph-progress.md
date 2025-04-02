@@ -51,3 +51,7 @@
 ## Iteration 13
 - Deployed the Group Scholar docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 14
+- Redeployed the Group Scholar docs site to Vercel to refresh production.
+- Production URL: https://groupscholar-docs.vercel.app
