@@ -61,3 +61,9 @@
 - Linked the new guide from the docs index and landing page.
 - Deployed the updated docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 16
+- Added a program design guide covering eligibility, rubric construction, review workflow, and launch readiness.
+- Linked the new guide from the docs index and landing page.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
