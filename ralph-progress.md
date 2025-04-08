@@ -79,3 +79,21 @@
 - Linked the new guide from the docs index and landing page.
 - Deployed the updated docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 19
+- Added a risk and compliance guide covering the risk register, compliance calendar, and audit readiness.
+- Added an AI enablement & automation guide with guardrails, approved use cases, and intake steps.
+- Linked the new guides from the docs index and landing page.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 20
+- Added a fundraising and investor relations guide covering funding strategy, pipeline management, and investor updates.
+- Linked the new guide from the docs index and landing page.
+
+## Iteration 21
+- Added a research and insights guide covering intake, methods, and sharing cadence.
+- Added a scholar experience & support guide covering service standards, triage, and well-being safeguards.
+- Linked the new guides from the docs index and landing page.

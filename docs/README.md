@@ -23,8 +23,13 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `talent-hiring.md`
 - `customer-success.md`
 - `finance-procurement.md`
+- `fundraising-investor-relations.md`
 - `marketing-brand.md`
 - `partnerships-alliances.md`
 - `program-design.md`
 - `community-engagement.md`
 - `data-analytics.md`
+- `risk-compliance.md`
+- `ai-automation.md`
+- `scholar-experience.md`
+- `research-insights.md`
