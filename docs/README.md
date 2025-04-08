@@ -27,3 +27,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `partnerships-alliances.md`
 - `program-design.md`
 - `community-engagement.md`
+- `data-analytics.md`

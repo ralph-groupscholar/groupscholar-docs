@@ -73,3 +73,9 @@
 - Linked the new guide from the docs index and landing page.
 - Deployed the updated docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 18
+- Added a data and analytics guide covering governance, access, and reporting cadence.
+- Linked the new guide from the docs index and landing page.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
