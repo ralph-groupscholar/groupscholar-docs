@@ -98,3 +98,5 @@
 - Linked the new guides from the docs index and landing page.
 - Deployed the updated docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
