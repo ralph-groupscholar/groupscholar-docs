@@ -102,3 +102,17 @@
 ## Iteration 22
 - Refined the docs landing page callout, removed a duplicate scholar experience card, and redeployed the site.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 23
+- Replaced raw markdown links with a rendered docs viewer and routed all docs links through it.
+- Added a markdown renderer page with navigation and improved reading styles.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 24
+- Added a local markdown renderer bundle to avoid CDN blocks and fix unstyled raw markdown.
+- Wired the docs viewer to load the local renderer.
+
+## Iteration 23
+- Added a markdown reader that renders docs with styling instead of raw text.
+- Updated docs links to route through the reader and added a docs index redirect.
