@@ -33,3 +33,4 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `ai-automation.md`
 - `scholar-experience.md`
 - `research-insights.md`
+- `alumni-network.md`

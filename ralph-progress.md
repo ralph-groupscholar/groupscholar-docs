@@ -118,3 +118,7 @@
 ## Iteration 23
 - Added a markdown reader that renders docs with styling instead of raw text.
 - Updated docs links to route through the reader and added a docs index redirect.
+
+## Iteration 25
+- Added an alumni network guide covering lifecycle stages, engagement tiers, and programming.
+- Linked the new guide from the docs landing page and docs index list.
