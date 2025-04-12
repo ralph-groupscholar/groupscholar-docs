@@ -112,6 +112,8 @@
 ## Iteration 24
 - Added a local markdown renderer bundle to avoid CDN blocks and fix unstyled raw markdown.
 - Wired the docs viewer to load the local renderer.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
 
 ## Iteration 23
 - Added a markdown reader that renders docs with styling instead of raw text.
