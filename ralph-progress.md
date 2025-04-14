@@ -122,3 +122,9 @@
 ## Iteration 25
 - Added an alumni network guide covering lifecycle stages, engagement tiers, and programming.
 - Linked the new guide from the docs landing page and docs index list.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 25
+- Added a program operations guide covering delivery cadence, quality checks, and partner coordination.
+- Linked the new guide from the landing page and docs index callout.
