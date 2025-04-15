@@ -128,3 +128,14 @@
 ## Iteration 25
 - Added a program operations guide covering delivery cadence, quality checks, and partner coordination.
 - Linked the new guide from the landing page and docs index callout.
+
+## Iteration 26
+- Added a people operations & performance guide covering cycles, coaching, and compensation alignment.
+- Linked the new guide from the docs index and landing page.
+
+## Iteration 26
+- Added a board & governance guide covering board cadence, decision rights, and oversight materials.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 26
+- Added a board & governance card to the docs landing page so the guide is discoverable.

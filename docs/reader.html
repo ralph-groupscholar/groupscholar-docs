@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Group Scholar Docs</title>
+    <link rel="stylesheet" href="reader.css" />
+  </head>
+  <body>
+    <header>
+      <p class="eyebrow">Group Scholar Docs</p>
+      <h1 id="doc-title">Documentation</h1>
+      <nav>
+        <a href="../index.html">Back to home</a>
+        <a href="reader.html?path=README.md">Docs index</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="notice" id="doc-path">Loading...</div>
+      <article id="doc"></article>
+    </main>
+
+    <script src="../marked.min.js"></script>
+    <script>
+      const docTitle = document.getElementById("doc-title");
+      const docPath = document.getElementById("doc-path");
+      const docContainer = document.getElementById("doc");
+
+      const params = new URLSearchParams(window.location.search);
+      const rawPath = params.get("path") || "README.md";
+      const decodedPath = decodeURIComponent(rawPath);
+      const [pathPart, hashPart] = decodedPath.split("#");
+
+      const isInvalid =
+        !pathPart ||
+        pathPart.includes("..") ||
+        pathPart.startsWith("/") ||
+        pathPart.includes("://");
+
+      const filePath = isInvalid ? "README.md" : pathPart;
+      docPath.textContent = `Viewing: ${filePath}`;
+
+      const toReaderPath = (href) => {
+        if (!href) return null;
+        if (href.startsWith("http")) return null;
+        if (href.startsWith("#")) return null;
+        const [linkPath, linkHash] = href.split("#");
+        if (!linkPath.endsWith(".md")) return null;
+        const nextPath = linkHash ? `${linkPath}#${linkHash}` : linkPath;
+        return `reader.html?path=${encodeURIComponent(nextPath)}`;
+      };
+
+      fetch(filePath)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Failed to load document.");
+          }
+          return response.text();
+        })
+        .then((text) => {
+          let html = text;
+          if (window.marked) {
+            html = typeof window.marked.parse === "function"
+              ? window.marked.parse(text, { mangle: false, headerIds: true })
+              : window.marked(text);
+          }
+          docContainer.innerHTML = html;
+          const firstHeading = docContainer.querySelector("h1");
+          if (firstHeading) {
+            docTitle.textContent = firstHeading.textContent;
+            document.title = `${firstHeading.textContent} | Group Scholar Docs`;
+          }
+          if (hashPart) {
+            const target = document.getElementById(hashPart);
+            if (target) {
+              target.scrollIntoView({ behavior: "smooth" });
+            }
+          }
+        })
+        .catch(() => {
+          docContainer.innerHTML = "<p>We could not load this document.</p>";
+          docPath.textContent = "Document not found.";
+        });
+
+      docContainer.addEventListener("click", (event) => {
+        const link = event.target.closest("a");
+        if (!link) return;
+        const readerTarget = toReaderPath(link.getAttribute("href"));
+        if (!readerTarget) return;
+        event.preventDefault();
+        window.location.href = readerTarget;
+      });
+    </script>
+  </body>
+</html>
