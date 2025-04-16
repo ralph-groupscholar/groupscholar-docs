@@ -128,8 +128,6 @@
 ## Iteration 25
 - Added a program operations guide covering delivery cadence, quality checks, and partner coordination.
 - Linked the new guide from the landing page and docs index callout.
-
-## Iteration 26
 - Added a people operations & performance guide covering cycles, coaching, and compensation alignment.
 - Linked the new guide from the docs index and landing page.
 
@@ -139,3 +137,9 @@
 
 ## Iteration 26
 - Added a board & governance card to the docs landing page so the guide is discoverable.
+
+## Iteration 24 (follow-up)
+- Switched the docs reader to use the locally bundled markdown renderer to avoid CDN blocks.
+- Confirmed the docs links route through the reader so markdown renders with styling.
+- Deployed the updated docs site to Vercel.
+- Production URL: https://groupscholar-docs.vercel.app

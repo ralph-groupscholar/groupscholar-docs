@@ -21,12 +21,16 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `meeting-rhythm.md`
 - `impact-metrics.md`
 - `talent-hiring.md`
+- `people-operations.md`
 - `customer-success.md`
 - `finance-procurement.md`
+- `board-governance.md`
 - `fundraising-investor-relations.md`
 - `marketing-brand.md`
 - `partnerships-alliances.md`
 - `program-design.md`
+- `program-operations.md`
+- `program-evaluation.md`
 - `community-engagement.md`
 - `data-analytics.md`
 - `risk-compliance.md`
