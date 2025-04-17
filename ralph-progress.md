@@ -157,3 +157,27 @@
 ## Iteration 32
 - Added an IT & systems guide covering provisioning, device standards, ownership, and continuity.
 - Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 26
+- Added a technology operations & reliability guide covering SLOs, incident response, and observability.
+- Linked the new guide from the docs landing page and core docs list.
+
+## Iteration 33
+- Added a grant compliance & reporting guide covering obligations, evidence, and audit readiness.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 27
+- Added a legal & policy guide covering contracting, policy governance, and records retention.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 74
+- Added a review operations & quality guide covering calibration, QA checks, and audit-ready decisions.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 67
+- Added a strategic planning & OKRs guide covering cadence, governance, and artifacts.
+- Linked the new guide from the docs landing page and core docs list.
+
+## Iteration 75
+- Added a scholar safeguarding & crisis response guide with tiers, escalation, and documentation standards.
+- Linked the safeguarding guide from the docs index list and the landing page callout.
