@@ -143,3 +143,17 @@
 - Confirmed the docs links route through the reader so markdown renders with styling.
 - Deployed the updated docs site to Vercel.
 - Production URL: https://groupscholar-docs.vercel.app
+
+## Iteration 31
+- Added a product portfolio doc to catalog the Group Scholar product suite and ownership norms.
+- Updated the product brief to reflect the broader platform focus and linked to the portfolio.
+- Added the product portfolio card to the docs landing page.
+
+## Iteration 25
+- Added an equity & inclusion guide covering inclusive design, accessibility, and fairness checks.
+- Linked the new guide from the docs landing page and docs index list.
+- Attempted Vercel deploy; blocked by daily deployment limit (free plan).
+
+## Iteration 32
+- Added an IT & systems guide covering provisioning, device standards, ownership, and continuity.
+- Linked the new guide from the docs landing page and docs index list.

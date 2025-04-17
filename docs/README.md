@@ -13,6 +13,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `company-overview.md`
 - `operations-playbook.md`
 - `product-brief.md`
+- `product-portfolio.md`
 - `engineering-handbook.md`
 - `onboarding-guide.md`
 - `security-privacy.md`
@@ -38,3 +39,5 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `scholar-experience.md`
 - `research-insights.md`
 - `alumni-network.md`
+- `equity-inclusion.md`
+- `it-systems.md`
