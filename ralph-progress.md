@@ -189,3 +189,11 @@
 ## Iteration 108
 - Added an events & convenings playbook covering planning cadence, roles, accessibility, and reporting.
 - Linked the new playbook from the docs index list and landing page.
+
+## Iteration 109
+- Added a donor stewardship & recognition guide covering tiers, cadence, and recognition standards.
+- Linked the new guide from the docs index list and landing page.
+
+## Iteration 121
+- Added a support case management guide covering intake standards, SLAs, documentation, and escalation triggers.
+- Linked the new guide from the docs landing page and docs index list.

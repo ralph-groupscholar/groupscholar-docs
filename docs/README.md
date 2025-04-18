@@ -28,6 +28,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `grant-compliance.md`
 - `board-governance.md`
 - `fundraising-investor-relations.md`
+- `donor-stewardship.md`
 - `strategic-planning.md`
 - `marketing-brand.md`
 - `partnerships-alliances.md`
@@ -44,6 +45,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `tech-operations.md`
 - `knowledge-management.md`
 - `scholar-experience.md`
+- `support-case-management.md`
 - `safeguarding-response.md`
 - `research-insights.md`
 - `alumni-network.md`
