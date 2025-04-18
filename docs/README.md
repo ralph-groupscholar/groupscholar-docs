@@ -36,6 +36,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `program-evaluation.md`
 - `review-quality.md`
 - `community-engagement.md`
+- `events-convenings.md`
 - `data-analytics.md`
 - `risk-compliance.md`
 - `legal-policy.md`
@@ -46,5 +47,6 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `safeguarding-response.md`
 - `research-insights.md`
 - `alumni-network.md`
+- `mentor-program.md`
 - `equity-inclusion.md`
 - `it-systems.md`

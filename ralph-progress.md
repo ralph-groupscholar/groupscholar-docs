@@ -181,3 +181,11 @@
 ## Iteration 75
 - Added a scholar safeguarding & crisis response guide with tiers, escalation, and documentation standards.
 - Linked the safeguarding guide from the docs index list and the landing page callout.
+
+## Iteration 57
+- Added a knowledge management & documentation guide covering ownership, lifecycle, decision records, and quality checks.
+- Linked the new guide from the docs landing page and core docs list.
+
+## Iteration 108
+- Added an events & convenings playbook covering planning cadence, roles, accessibility, and reporting.
+- Linked the new playbook from the docs index list and landing page.
