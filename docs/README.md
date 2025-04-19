@@ -45,6 +45,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `tech-operations.md`
 - `knowledge-management.md`
 - `scholar-experience.md`
+- `scholar-communications.md`
 - `support-case-management.md`
 - `safeguarding-response.md`
 - `research-insights.md`

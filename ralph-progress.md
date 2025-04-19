@@ -197,3 +197,7 @@
 ## Iteration 121
 - Added a support case management guide covering intake standards, SLAs, documentation, and escalation triggers.
 - Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 54
+- Added a scholar communications & messaging guide covering cadence, templates, approvals, and privacy.
+- Linked the new guide from the docs index list and landing page.
