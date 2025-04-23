@@ -16,6 +16,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `product-portfolio.md`
 - `engineering-handbook.md`
 - `onboarding-guide.md`
+- `training-enablement.md`
 - `security-privacy.md`
 - `communications-guide.md`
 - `culture-values.md`
@@ -23,6 +24,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `impact-metrics.md`
 - `talent-hiring.md`
 - `people-operations.md`
+- `learning-development.md`
 - `customer-success.md`
 - `finance-procurement.md`
 - `grant-compliance.md`
@@ -41,11 +43,13 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `data-analytics.md`
 - `risk-compliance.md`
 - `legal-policy.md`
+- `records-lifecycle.md`
 - `ai-automation.md`
 - `tech-operations.md`
 - `knowledge-management.md`
 - `scholar-experience.md`
 - `scholar-communications.md`
+- `scholar-funding-disbursements.md`
 - `support-case-management.md`
 - `safeguarding-response.md`
 - `research-insights.md`
@@ -53,3 +57,5 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `mentor-program.md`
 - `equity-inclusion.md`
 - `it-systems.md`
+- `facilities-workplace.md`
+- `accessibility-accommodations.md`

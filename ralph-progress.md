@@ -201,3 +201,23 @@
 ## Iteration 54
 - Added a scholar communications & messaging guide covering cadence, templates, approvals, and privacy.
 - Linked the new guide from the docs index list and landing page.
+
+## Iteration 159
+- Added a facilities & workplace operations guide covering workspace standards, safety, and vendor coordination.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 160
+- Added a records & data lifecycle guide covering retention, legal holds, archiving, and disposal standards.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 151
+- Added a scholar funding & disbursements guide covering award readiness, approvals, payment schedules, and reconciliation.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 161
+- Added a learning & development guide covering training tracks, onboarding flow, and enablement governance.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 152
+- Added a training & enablement guide covering learning pillars, role pathways, and readiness checks.
+- Linked the new guide from the docs landing page and docs index list.
