@@ -49,6 +49,7 @@ Use this folder for documentation content. Keep files short, scannable, and orga
 - `knowledge-management.md`
 - `scholar-experience.md`
 - `scholar-communications.md`
+- `scholar-retention-playbook.md`
 - `scholar-funding-disbursements.md`
 - `support-case-management.md`
 - `safeguarding-response.md`

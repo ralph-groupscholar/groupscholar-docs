@@ -221,3 +221,11 @@
 ## Iteration 152
 - Added a training & enablement guide covering learning pillars, role pathways, and readiness checks.
 - Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 159 (follow-up)
+- Added an accessibility & accommodations guide covering intake workflows, event readiness, and digital accessibility checks.
+- Linked the new guide from the docs landing page and docs index list.
+
+## Iteration 153
+- Added a scholar retention & re-engagement playbook covering risk signals, intervention tiers, and re-entry paths.
+- Linked the new playbook from the docs landing page and docs index list.
